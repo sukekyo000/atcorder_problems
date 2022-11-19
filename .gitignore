@@ -1,3 +1,5 @@
 ABC**/**
 !ABC**/**
 !ABC**/**.gitkeep
+build/build
+sample.cpp
